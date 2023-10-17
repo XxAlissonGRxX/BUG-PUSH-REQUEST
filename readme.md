@@ -1,4 +1,4 @@
-Teste para corrigir bug e dar continuidade à aula dev em dobro!
+Teste para corrigir bug de push request e dar continuidade à aula dev em dobro!
 
 Para eu corrigir esse bug eu gerei uma chave SSH no linux que linkei com o repositório e na hora de fazer o git remote eu coloquei via ssh e não HTTPS assim na hora de dar o git push fazer um processo de linkagem de SSH!
 
